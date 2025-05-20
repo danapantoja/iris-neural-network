@@ -24,3 +24,7 @@ Add confusion matrix and other evaluation metrics
 
 Explore different architectures and activation functions
 
+## Future Work
+- Add support for other activation functions (ReLU, tanh, etc.) to improve learning performance
+- Implement additional evaluation metrics such as accuracy, precision, recall, and confusion matrix visualization
+- Explore applying the network to other datasets and real-world problems
