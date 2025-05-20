@@ -15,3 +15,12 @@ This is a feedforward neural network implemented from scratch in Python using on
 ## Results
 
 After training for 10,000 epochs, the neural network achieves approximately **97% accuracy** on the test set (binary classification of Setosa vs. Versicolor).
+
+
+Future work
+Improve multiclass classification accuracy
+
+Add confusion matrix and other evaluation metrics
+
+Explore different architectures and activation functions
+
