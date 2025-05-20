@@ -10,6 +10,7 @@ This is a feedforward neural network implemented from scratch in Python using on
 - Standardization of input features
 - Train/test split evaluation
 - Simple accuracy metric for performance
+- Training loss tracking and visualization using Matplotlib
 
 ## Results
 
